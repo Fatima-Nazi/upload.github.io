@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar .logo{
+    height: 80px;
+    width: 80px;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+.aboutimg{
+    height: 300px;
+    width: 100%;
+}
+
+.card img{
+    height: 250px;
+}
+
